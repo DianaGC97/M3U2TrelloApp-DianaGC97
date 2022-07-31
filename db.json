@@ -1,0 +1,20 @@
+{
+    "dates": [
+        {
+            "id": 1,
+            "title": "JavaScript",
+            "person": "Mariana",
+            "state": "finished",
+            "date": 1290410940,
+            "created": 1615352159
+        },
+        {
+            "id": 2,
+            "title": "Movile",
+            "person": "Carlos",
+            "state": "run",
+            "date": 1290410940,
+            "created": 1615352159
+        }
+    ]
+}
